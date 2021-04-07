@@ -1,0 +1,1 @@
+const Vehicle = require('../models/Vehicle')
